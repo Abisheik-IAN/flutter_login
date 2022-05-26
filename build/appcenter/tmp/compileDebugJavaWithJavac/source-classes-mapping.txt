@@ -1,7 +1,0 @@
-com/yourcompany/appcenter/BuildConfig.java
- com.yourcompany.appcenter.BuildConfig
-com/aloisdeniel/flutter/appcenter/AppcenterPlugin.java
- com.aloisdeniel.flutter.appcenter.AppcenterPlugin
- com.aloisdeniel.flutter.appcenter.AppcenterPlugin$1
- com.aloisdeniel.flutter.appcenter.AppcenterPlugin$2
- com.aloisdeniel.flutter.appcenter.AppcenterPlugin$3

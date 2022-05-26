@@ -4,9 +4,6 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/android.iml" filepath="$PROJECT_DIR$/.idea/modules/android.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android.app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1666129400/android.appcenter.iml" filepath="$PROJECT_DIR$/.idea/modules/1666129400/android.appcenter.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/195693119/android.appcenter_analytics.iml" filepath="$PROJECT_DIR$/.idea/modules/195693119/android.appcenter_analytics.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/98634446/android.appcenter_crashes.iml" filepath="$PROJECT_DIR$/.idea/modules/98634446/android.appcenter_crashes.iml" />
     </modules>
   </component>
 </project>
