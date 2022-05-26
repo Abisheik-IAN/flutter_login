@@ -1,0 +1,6 @@
+com/aloisdeniel/flutter/appcenter_analytics/AppcenterAnalyticsPlugin.java
+ com.aloisdeniel.flutter.appcenter_analytics.AppcenterAnalyticsPlugin
+ com.aloisdeniel.flutter.appcenter_analytics.AppcenterAnalyticsPlugin$1
+ com.aloisdeniel.flutter.appcenter_analytics.AppcenterAnalyticsPlugin$2
+com/yourcompany/appcenteranalytics/BuildConfig.java
+ com.yourcompany.appcenteranalytics.BuildConfig

@@ -1,0 +1,6 @@
+com/aloisdeniel/flutter/appcenter_crashes/AppcenterCrashesPlugin.java
+ com.aloisdeniel.flutter.appcenter_crashes.AppcenterCrashesPlugin
+ com.aloisdeniel.flutter.appcenter_crashes.AppcenterCrashesPlugin$1
+ com.aloisdeniel.flutter.appcenter_crashes.AppcenterCrashesPlugin$2
+com/yourcompany/appcentercrashes/BuildConfig.java
+ com.yourcompany.appcentercrashes.BuildConfig

@@ -1,0 +1,7 @@
+#Thu May 26 17:14:07 IST 2022
+base.1=/Users/mac-obs-21/StudioProjects/sample_project/build/app/intermediates/dex/debug/mergeProjectDexDebug/classes.dex
+path.1=classes.dex
+base.0=/Users/mac-obs-21/StudioProjects/sample_project/build/app/intermediates/dex/debug/mergeExtDexDebug/classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex
