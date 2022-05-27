@@ -10,9 +10,6 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
   <component name="ProjectId" id="29euPBVhJpbeTvk8FeEusaOcQQG" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -23,7 +20,6 @@
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
     <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="io.flutter.reload.alreadyRun" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -53,11 +49,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="421" y="230" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1653632093754">
-      <screen x="0" y="25" width="1440" height="799" />
+    <state x="421" y="229" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1653489353157">
+      <screen x="0" y="25" width="1440" height="797" />
     </state>
     <state x="421" y="229" key="#com.intellij.fileTypes.FileTypeChooser/0.25.1440.797@0.25.1440.797" timestamp="1653489353157" />
-    <state x="421" y="230" key="#com.intellij.fileTypes.FileTypeChooser/0.25.1440.799@0.25.1440.799" timestamp="1653632093754" />
     <state x="100" y="125" width="1240" height="585" key="AVDManager" timestamp="1653630323619">
       <screen x="0" y="25" width="1440" height="797" />
     </state>
