@@ -57,7 +57,7 @@ android {
     }
     signingConfigs {
         releaseSigningConfig {
-        storeFile file("keystorefile/sample_project_keystoreFile.jks")
+        storeFile file("app_details/sample_project_keystoreFile.jks")
         storePassword "Admin123"
             keyAlias "sample_project"
         keyPassword "Admin123"
